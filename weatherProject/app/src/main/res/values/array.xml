@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="category_list">
+        <item>Sunrise</item>
+        <item>Sunset</item>
+        <item>Chance of Rain</item>
+        <item>Humidity</item>
+        <item>Wind</item>
+        <item>Feels Like</item>
+        <item>Precipitation</item>
+        <item>Pressure</item>
+        <item>Visibility</item>
+        <item>UV Index</item>
+    </array>
+
+    <array name="city_list">
+        <item>Bengaluru</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Pune</item>
+        <item>Chennai</item>
+    </array>
+
+</resources>
